@@ -11,7 +11,6 @@ Step2: Open power bi desktop
 Connect the sql server.
 Open the DateTablePowerBI.txt file and copy the script to create date table in power bi.
 Create Relationship DateTable (1) to (*) vw_LogisticsDashboard[DispatchDate]
-
 ========================
 Setup capex power bi
 ========================
