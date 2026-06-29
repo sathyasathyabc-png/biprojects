@@ -12,4 +12,12 @@ Connect the sql server.
 Open the DateTablePowerBI.txt file and copy the script to create date table in power bi.
 Create Relationship DateTable (1) to (*) vw_LogisticsDashboard[DispatchDate]
 
+========================
+Setup capex power bi
+========================
+1. Step1: Run 1CapexDB.sql
+2. Open the power bi desktop and connect sql server to interact with dashboard.
+3. Sample screenshots of dashboard will be available Capex_KPI_Screenshots folder. After download, open the screenshot.html in browser.
+
+
 
